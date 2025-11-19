@@ -1,6 +1,5 @@
 <details>
 <summary>About me</summary>
-# About me
 
 Hi, I’m Anupama — analytics consultant in the Bay Area.
 I build end-to-end projects in **SQL · Python · R · Tableau**, mainly for
